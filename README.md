@@ -13,14 +13,14 @@ Velo Films turns your Cycliq bike-camera footage (Fly12 front and Fly6 rear) int
 
 Questions, problems or ideas? Email **[mahoneyclanapps+velofilms@gmail.com](mailto:mahoneyclanapps+velofilms@gmail.com)**.
 
-To help us answer quickly, please include:
+If you're reporting a problem, please include:
 
 - what you were doing and what happened
 - your Mac or iPad model and macOS or iPadOS version
 - the app version
 - a screenshot, if it helps
 
-We read every message, and usually reply within a few days.
+**Please note:** I make this app as a hobby, in my spare time. I don't offer active support: I read every message, but I can't promise a reply, a fix or a timeline.
 
 ## Privacy
 
