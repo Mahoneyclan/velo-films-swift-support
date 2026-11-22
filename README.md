@@ -9,6 +9,8 @@ Velo Films turns your Cycliq bike-camera footage (Fly12 front and Fly6 rear) int
 - Renders the reel with a map, speed gauge and elevation overlay, and lets you fine-tune the picks.
 - Your footage stays on your device and drives; nothing is uploaded.
 
+Velo Films is free. If it's useful to you, you can shout me a coffee in Settings → Setup → Support Velo Films. It's completely optional and unlocks nothing.
+
 ## Get help
 
 Questions, problems or ideas? Email **[mahoneyclanapps+velofilms@gmail.com](mailto:mahoneyclanapps+velofilms@gmail.com)**.

@@ -21,6 +21,7 @@ The app connects only to:
 
 - **Strava** (Strava, Inc., USA): to sign in to your Strava account and import your rides and their GPS tracks, when you ask it to. You can revoke Velo Films's access at any time at strava.com/settings/apps.
 - **Apple Maps:** to draw the map shown in your videos. Apple receives the map area being drawn, as with any Apple Maps request.
+- **Apple App Store:** only if you choose to leave a tip. Apple handles the payment; I never see your card or payment details, and the app doesn't record who tipped.
 
 All connections use HTTPS. Velo Films does not:
 
